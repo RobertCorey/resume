@@ -1,71 +1,54 @@
-Markdown Resumé
+Resumé: Robert Corey
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+    Newport, Rhode Island
+    Phone: (334) 603 1337  
+    Email: robertbcorey@gmail.com
 
-Interests
----------
-
-*   Creating beautiful resumés from simple Markdown documents
-
+Summary
+-------
+Computer Science Student with a focus in Web Development. 
 
 Work Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **Cyber Care** (Providence, RI)
 
-    Junior Resumé Maker, 2006 - 2007
-
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
-
-*   **\LaTeX\ + pdflatex**
-
-    Senior Resumé Maker, 2008 - 2010
-
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
-
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
-
-    Web Resumé Intern, August 2010
-
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
-
-*   **Markdown with Pandoc**
-
-    Resumé Architect, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
-
+    Web Developer, July 2014 - January 2015
+    - Front end web development using AngularJs, jQuery, and vanilla JavaScript. 
+    - Build Task automation with Grunt & Bower
+    - Worked on internet television web application for large Telecom
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **University of Rhode Island** (Kingstown, RI)
 
-    B.S. in Submodules, May 2012
+    B.A. in Computer Science (in progress, degree anticipated August 2015)
+
+    **Courses:**
+
+    - Dynamic Web Design and Programming (COM 372)
+    - Software Engineering (CSC 305)
+    - Operating Systems and Networks (CSC 412)
+    - Artificial Intelligence (CSC 481)
 
 
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
+*   **Programming Languages:** JavaScript, PHP, C, Python, Java, C++
 
-*   Familiar with GNU Make, bash
+*   **Web Technologies:** HTML5, CSS3, jQuery, MySQL, Node.js
 
+*   **Tools:** Bower, Grunt, Git, Atlassian, Github, Bash, Linux
 
+Portfolio
+---------
+*   **Github:** https://github.com/RobertCorey
+
+    - Code written for personal and school projects
+
+*   **Youtube:** http://goo.gl/zWVRrD
+
+    - Videos of programs I've written with narration
