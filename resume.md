@@ -7,7 +7,7 @@ Resumé: Robert Corey
 
 Summary
 -------
-Computer Science Student with a focus in Web Development. 
+Computer Science Student with a specialty in Web Development. 
 
 Work Experience
 ---------------
@@ -16,7 +16,7 @@ Work Experience
 
     Web Developer, July 2014 - January 2015
     - Front end web development using AngularJs, jQuery, and vanilla JavaScript. 
-    - Build Task automation with Grunt & Bower
+    - Build task automation with Grunt & Bower
     - Worked on internet television web application for large Telecom
 
 Education
