@@ -39,7 +39,7 @@ Skills
 
 *   **Programming Languages:** JavaScript, PHP, C, Python, Java, C++
 
-*   **Web Technologies:** HTML5, CSS3, jQuery, MySQL, Node.js
+*   **Web Technologies:** HTML5, CSS3, jQuery, MySQL, NodeJS, AngularJS
 
 *   **Tools:** Bower, Grunt, Git, Atlassian, Github, Bash, Linux
 
