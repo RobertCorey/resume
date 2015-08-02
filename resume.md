@@ -2,12 +2,8 @@ Resumé: Robert Corey
 ===============
 
     Newport, Rhode Island
-    Phone: (334) 603 1337  
+    Phone: (401) 239 8922  
     Email: robertbcorey@gmail.com
-
-Summary
--------
-Computer Science Student with a specialty in Web Development. 
 
 Work Experience
 ---------------
@@ -42,6 +38,8 @@ Skills
 *   **Web Technologies:** HTML5, CSS3, jQuery, MySQL, NodeJS, AngularJS
 
 *   **Tools:** Bower, Grunt, Git, Atlassian, Github, Bash, Linux
+
+*   **Information Technology:** Operating Systems, Desktop Support, Hardware
 
 Portfolio
 ---------
