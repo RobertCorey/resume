@@ -7,11 +7,26 @@ Resumé: Robert Corey
 
 Work Experience
 ---------------
+*   **General Electric Digital ** (Providence, RI)
+    Senior Software Engineer, October 2016 - Present
+    - Maintained my.ge.com, landing page for entire GE organization
+    - Created cross platform apps in Ionic with Angular 2 and Typescript
+    - Wrote middleware microservices in node
+*   **AAA Northeast** (Providence, RI)
+    Web Developer, August 2015 – October 2016
+    - 70% front end in Angular 1 and jQuery
+    - 30% back end on LAMP stack
+    - Worked on internal accounting software project
+    - Refactored previous developers angular project  to follow  modern web  design practices which allowed me to rapidly integrate new features
+    - Made significant performance optimizations to page load times and responsiveness
+    - Made usability improvements to make end user’s more productive
+    - Converted styles and layout to accommodate lower  resolutions
+    - Met directly with stakeholders to define new features
 
 *   **Cyber Care** (Providence, RI)
 
     Web Developer, July 2014 - January 2015
-    - Front end web development using AngularJs, jQuery, and vanilla JavaScript. 
+    - Front end web development using AngularJs, jQuery, and vanilla JavaScript.
     - Build task automation with Grunt & Bower
     - Worked on internet television web application for large Telecom
 
